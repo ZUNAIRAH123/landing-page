@@ -15,7 +15,7 @@ const App = () => {
         <FeatureSection />
         {/* <Workflow /> */}
         {/* <Pricing /> */}
-        <Testimonials />
+        {/* <Testimonials /> */}
       </div>
       <Footer />
     </>
